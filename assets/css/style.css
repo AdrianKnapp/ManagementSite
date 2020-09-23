@@ -159,7 +159,7 @@ header .container {
     width: 25px;
     padding-bottom: 0px;
     position: absolute;
-    margin-left: 110px;
+    margin-left: 160px;
     margin-top: 5px;
     cursor: pointer;
 }
@@ -340,6 +340,14 @@ footer {
     }
     .credits {
         font-size: 10px;
+    }
+    .eye {
+        width: 25px;
+        padding-bottom: 0px;
+        position: absolute;
+        right: 25px;
+        margin-top: 5px;
+        cursor: pointer;
     }
 }
 
