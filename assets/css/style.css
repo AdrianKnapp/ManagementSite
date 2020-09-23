@@ -32,6 +32,9 @@ header .container {
     font-weight: 500;
     color: white;
 }
+.menu {
+    user-select: none;
+}
 .logo a{
     text-decoration: none;
     color: white;
@@ -162,6 +165,7 @@ header .container {
     margin-left: 160px;
     margin-top: 5px;
     cursor: pointer;
+    user-select: none;
 }
 .title{
     font-size: 30px;
@@ -274,6 +278,7 @@ footer {
 .social a{
     text-decoration: none ;
     color: white;
+    user-select: none;
 }
 .social img{
     width: 30px;
